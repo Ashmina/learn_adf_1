@@ -1,0 +1,9 @@
+{
+	"name": "ash-dev-adf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5401b288-752e-4cad-ab23-25fd77eab239",
+		"tenantId": "dd559b05-19eb-4957-af73-9ee420d71796"
+	}
+}
